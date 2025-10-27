@@ -335,11 +335,11 @@
 
 .ly-stxt01 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 30px;
     font-color: #000;
     position: relative;
-    left: 15%;
-    top: 15%;
+    left: 5%;
+    top: 5%;
     opacity: 0;
     animation: ly-stxt01_move 15s;
     animation-delay: 3s;
@@ -385,11 +385,11 @@
 
 .ly-stxt02 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 30px;
     font-color: #000;
     position: relative;
-    left: 15%;
-    top: 15%;
+    left: 5%;
+    top: 5%;
     margin-top: -71px;
     opacity: 0;
     animation: ly-stxt02_move 15s;
@@ -446,11 +446,11 @@
 
 .ly-stxt03 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 30px;
     font-color: #000;
     position: relative;
-    left: 15%;
-    top: 15%;
+    left: 5%;
+    top: 5%;
     opacity: 0;
     margin-top: -71px;
     animation: ly-stxt03_move 15s;
@@ -507,11 +507,11 @@
 
 .ly-stxt04 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 30px;
     font-color: #000;
     position: relative;
-    left: 15%;
-    top: 15%;
+    left: 5%;
+    top: 5%;
     opacity: 0;
     margin-top: -71px;
     animation: ly-stxt04_move 15s;
