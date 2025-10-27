@@ -1,7 +1,7 @@
 $('#login-button').click(function (event) {
     let userName = document.getElementById("userName").value;
     let pwd = document.getElementById("pwd").value;
-    if (userName == "root" && pwd == "root") {
+    if (userName == "chensi" && pwd == "1030") {
         $('#h').text("欢迎回来！");
         event.preventDefault();
         $('form').fadeOut(500);
@@ -10,6 +10,6 @@ $('#login-button').click(function (event) {
             location.href = "BirthdayCake.html";
         }, 4000);
     } else {
-        alert("用户名或密码不正确！");
+        alert("用户名和密码是你的名字和生日！");
     }
 });
