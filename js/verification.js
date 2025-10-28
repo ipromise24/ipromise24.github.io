@@ -7,7 +7,7 @@ $('#login-button').click(function (event) {
         $('form').fadeOut(500);
         $('.wrapper').addClass('form-success');
         setTimeout(function () {
-            location.href = "index1.html";
+            location.href = "ready.html";
         }, 4000);
     } else {
         alert("用户名和密码是你的名字和生日！");
